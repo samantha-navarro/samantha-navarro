@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome!  🤍 ✨
+
+☀️ Full Stack Software Engineer
+
+
+Always learning and advancing my skills in Software Frontend Development and open to collaborate.
+<br>
+💻: samantha.m.navarro@gmail.com
+
+Passion in asthetic web creativity and design with the user always in mind ✨
 
 <!--
 **samantha-navarro/samantha-navarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
