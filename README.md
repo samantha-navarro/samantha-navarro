@@ -3,7 +3,7 @@
 ☀️ Full Stack Software Engineer
 
 
-Always learning and advancing my skills in Software Frontend Development and open to collaborate.
+Always learning + advancing my skills in Software Frontend Development and open to collaborate.
 <br>
 💻: samantha.m.navarro@gmail.com
 
