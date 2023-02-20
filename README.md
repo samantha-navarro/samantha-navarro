@@ -1,6 +1,6 @@
 ### Welcome!  🤍 ✨
 
-☀️ Full Stack Software Engineer
+☀️ Full Stack Software Engineer w/ a focus in Frontend Development
 
 
 Always learning + advancing my skills in Software Frontend Development and open to collaborate.
