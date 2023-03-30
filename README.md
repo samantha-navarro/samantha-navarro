@@ -9,6 +9,8 @@ Always learning + advancing my skills in Software Frontend Development and open 
 
 Passion in aesthetic web creativity and design with the user always in mind ✨
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samantha-navarro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **samantha-navarro/samantha-navarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
