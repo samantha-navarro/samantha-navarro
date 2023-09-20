@@ -1,13 +1,12 @@
-### Welcome!  🤍 ✨
+### Welcome! ✨
 
+☀️ Data Analytics
 ☀️ Full Stack Software Engineer
 
 
-Always learning + advancing my skills in Software Development and open to collaborate.
+Always learning + advancing my skills in Data Analysis and Software Development, open to collaborate.
 <br>
 💻: samantha.m.navarro@gmail.com
-
-Passion in aesthetic web creativity and design ✨
 
 <!-- ### Skills
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
