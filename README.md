@@ -5,7 +5,7 @@
 ☀️ Full Stack Software Engineer
 
 
-Always learning + advancing my skills in Data Analysis and Software Development, open to collaborate.
+Always learning + advancing my skills in Data Analysis and Software Development.
 <br>
 💻: samantha.m.navarro@gmail.com
 
