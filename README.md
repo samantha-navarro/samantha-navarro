@@ -6,7 +6,7 @@
 
 
 Always learning + advancing my skills in Data Analysis and Software Development.
-<br>
+<br><br>
 💻: samantha.m.navarro@gmail.com
 
 <!-- ### Skills
