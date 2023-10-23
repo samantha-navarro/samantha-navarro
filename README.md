@@ -1,6 +1,6 @@
 ### Welcome! ✨
 
-☀️ Data Analytics 
+☀️ Data Analytics (continued skills)
 <br>
 ☀️ Full Stack Software Engineer
 
